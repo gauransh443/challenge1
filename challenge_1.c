@@ -4,7 +4,7 @@
 #include <stdio.h>
 int main() {
 
-    int marks1,marks2,marks3,marks4,marks5,total;
+    int marks1,marks2,marks3,marks4,marks5,total ;
     float percentage,avg;
     printf("Enter marks of subject 1 : ");
     scanf("%d",&marks1);
